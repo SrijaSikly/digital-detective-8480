@@ -37,3 +37,5 @@ Not applicable.
 - `evidence/.gitkeep`
 
 ## 8. Commit details
+Commit message: "Set up Digital Detective mission structure"
+The work was pushed to GitHub on the main branch and I confirmed the files and commit are visible in the repository.
