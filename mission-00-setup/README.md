@@ -21,8 +21,8 @@ The task was to set up my workspace for the assignment. I had to choose a correc
 - VS Code: used as the text editor and for its built-in terminal.
 
 ## 4. My understanding
-A repository is a project folder that Git tracks. It stores my files along with the history of every change,so I can go back to earlier versions.When it is on GitHub,it is also available online.
-The folders are organised by mission because each mission has its own task,notes and files.This keeps the work tidy,makes it easy for my teacher to find each mission,and lets me commit each mission separately.
+A repository is a project folder that Git tracks. It stores my files along with the history of every change, so I can go back to earlier versions. When it is on GitHub, it is also available online.
+The folders are organised by mission because each mission has its own task, notes and files. This keeps the work tidy, makes it easy for my teacher to find each mission, and lets me commit each mission separately.
 
 ## 5. Difficulties faced
 No major difficulties.
