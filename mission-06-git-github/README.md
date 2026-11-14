@@ -22,7 +22,7 @@ I created a branch called `update-about` with `git switch -c update-about`. On i
 ### Task 6.3 — Pull Request
 I opened a Pull Request from `update-about` into `main` on GitHub with the title "Add My Learning section to README" and reviewed the changed file.
 
-**PR status:** [WRITE ONE: "Merged into main" OR "Open, not merged, because my instructor did not ask me to merge it"].
+**PR status:** Merged into main (Pull Request #1, from update-about into main).
 
 - **Branch:** a separate line of work that lets me change files without touching the main version.
 - **Pull Request:** a request on GitHub to bring the changes from one branch into another, so others can review them first.
