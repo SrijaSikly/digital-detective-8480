@@ -14,3 +14,8 @@ This repository is my Diwali independent learning assignment, "The Digital Detec
 - [Mission 8: Final Report](mission-08-final-report/README.md)
 
 Each mission was completed and committed separately.
+
+## My Learning
+- I learned how a computer takes input, processes it, produces output and stores data.
+- I learned to use Terminal commands to create, copy and move files safely.
+- I learned how Git branches and commits help me track and publish my work.
